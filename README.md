@@ -1,1 +1,1 @@
-# Vectorized-Linear-Logistic-Regression
+# Vectorized-Linear-and-Logistic-Regression
